@@ -1,9 +1,11 @@
 
 # Vite Seo Optimizasiyonu
 
+
+
 SEO optimizasyonu, bir web sitesinin içeriğinin ve yapısının arama motorları tarafından daha iyi anlaşılmasını sağlamak amacıyla yapılan teknik ve stratejik düzenlemeler bütünüdür. Amaç, belirli anahtar kelimelerle yapılan aramalarda sitenin arama motoru sonuç sayfalarında (SERP) daha üst sıralarda yer almasını sağlamaktır.
 
-
+ - [Medium EN Version](https://medium.com/@thekinv21/vite-seo-optimization-3de337dfc90a)
 
 ## Kurulum
 
